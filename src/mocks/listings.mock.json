@@ -1,0 +1,44 @@
+{
+    "id" : "L-0001",                 
+    "title" : "신림역 30초 원룸",
+    "description" : "남향, 신축, 풀옵션",
+    "type" : "oneroom",              
+    "tradeType" : "rent",            
+    "price" : {
+        "monthly" : 45,                
+        "deposit" : 1000,              
+        "lease" : null,                
+        "sale" : null                  
+    },
+    "area" : {
+        "supplyM2" : 23.1,
+        "exclusiveM2" : 18.4,
+        "floor" : 7,
+        "totalFloors" : 15
+    },
+    "location" : {
+        "city" : "서울",
+        "district" : "관악구",
+        "dong" : "신림동",
+        "address" : "서울 관악구 ...",
+        "lat" : 37.484,
+        "lng" : 126.930
+    },
+    "options" : {
+        "parking" : true,
+        "elevator" : true,
+        "pet" : false,
+        "aircon" : true,
+        "washer" : true,
+        "induction" : true
+    },
+    "images" : [
+        "https://.../1.jpg",
+        "https://.../2.jpg"
+    ],
+    "badges" : ["NEW", "급매"],      
+    "createdAt" : "2026-01-10T10:00:00Z",
+    "updatedAt" : "2026-01-10T10:00:00Z",
+    "viewCount" : 123,
+    "likeCount" : 7
+}
