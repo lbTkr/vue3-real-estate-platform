@@ -1,13 +1,3 @@
 <template>
-    <div>
-        메인화면
-    </div>
+  <div>Home OK</div>
 </template>
-
-<script setup>
-
-</script>
-
-<style lang="scss" scoped>
-
-</style>

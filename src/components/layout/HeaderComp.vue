@@ -1,8 +1,7 @@
 <template>
     <header id="header">
         <h1 class="logo">
-            <router-link
-                to="/">Logo</router-link>
+            logo
         </h1>
     </header>
 </template>
